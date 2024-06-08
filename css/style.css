@@ -1,0 +1,23 @@
+/* #backImage{
+
+    background-image: url(../img/work-2.jpg);
+    width: 600px;
+    height: 400px;
+    background-repeat:  no-repeat;
+}
+
+#closePhoto{
+    cursor: pointer;
+} */
+
+
+#lightBoxImage{
+    background-image: url(../img/work-1.jpg);
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 400px;
+}
+
+i{
+    cursor: pointer;
+}
